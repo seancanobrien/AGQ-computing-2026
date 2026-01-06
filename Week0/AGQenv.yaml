@@ -1,0 +1,17 @@
+name: agq-env
+channels:
+- anaconda
+- conda-forge
+dependencies:
+ - python
+ - pytorch=2
+ - torchvision
+ - jupyterlab
+ - notebook
+ - git
+ - numpy
+ - matplotlib=3.10.0
+ - pandas
+ - nb_conda_kernels
+ - scipy
+ - scikit-learn
