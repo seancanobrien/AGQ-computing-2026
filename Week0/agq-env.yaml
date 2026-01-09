@@ -3,7 +3,7 @@ channels:
 - anaconda
 - conda-forge
 dependencies:
- - python
+ - python=3.11
  - pytorch=2
  - torchvision
  - jupyterlab
